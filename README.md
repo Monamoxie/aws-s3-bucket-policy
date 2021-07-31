@@ -1,4 +1,4 @@
-# AWS S3 BUCKET POLICY
+# AWS S3 BUCKET POLICY TEMPLATE
 
 Only use if you need to grant your bucket public access and permit external CRUD operations
 
