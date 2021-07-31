@@ -1,6 +1,6 @@
 # AWS S3 BUCKET POLICY
 
-Only use if you need to grant your bucket public access and allow CRUD operations from outside
+Only use if you need to grant your bucket public access and permit external CRUD operations
 
 `{
     "Version": "2008-10-17",
